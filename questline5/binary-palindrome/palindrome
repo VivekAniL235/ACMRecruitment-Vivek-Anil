@@ -1,0 +1,9 @@
+k=['11111','1100']
+def palindrome(k):
+    for i in k:
+        #reverse=i[::-1]
+        if i == i[::-1]:
+            print('it is a palindrome')
+        else:
+            print("not palindrome")
+palindrome(k)
