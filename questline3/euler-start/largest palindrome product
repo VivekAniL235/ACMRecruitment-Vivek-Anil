@@ -1,0 +1,13 @@
+largest_palindrome=0
+for i in range(999,99,-1):
+    for j in range(999,99,-1):
+        pdt=i*j
+        s_pdt=str(pdt)
+        if s_pdt== s_pdt[::-1]:
+            if pdt>largest_palindrome:
+                largest_palindrome=pdt
+print(largest_palindrome)
+
+
+
+
