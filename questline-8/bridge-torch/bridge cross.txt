@@ -1,0 +1,7 @@
+1)1 and 2 cross → 2 minutes (total = 2)
+2)1 returns with torch → 1 minute (total = 3)
+3)7 and 10 cross together → 10 minutes (total = 13)
+4)2 returns with torch → 2 minutes (total = 15)
+5)1 and 2 cross → 2 minutes (total = 17)
+
+The plan is best because the two slowest, 7 and 10, cross together, so their long 10-minute trip happens only once. If they went separately, the total time would be much higher. The fastest, 1 and 2, do the torch returning since they take the least time. This keeps the slow trips few and the return trips short, giving the minimum total of 17 minutes.
