@@ -1,0 +1,12 @@
+1)Turn Switch A ON and leave it on for a few minutes (2–5 minutes) so the bulb (if A controls it) gets warm.
+2)Turn Switch A OFF.
+3)Turn Switch B ON.
+4)And,Leave Switch C OFF.
+
+5)Now go into the other room once and check the bulb:
+If the bulb is lit, Switch B controls it.
+If the bulb is off but warm, Switch A controls it (it was heated while on, then turned off).
+If the bulb is off and cool, Switch C controls it.
+
+
+
