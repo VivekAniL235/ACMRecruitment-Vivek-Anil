@@ -1,0 +1,11 @@
+Sequence: 2, 6, 12, 20 ...
+
+The differences between consecutive pair of terms in the sequences are
+ 6 - 2 = 4
+ 12 - 6 = 6
+ 20 - 12 = 8
+So the differences are 4, 6, 8  which seems to be increasing by values of +2.
+Following this pattern the difference of next two pairs will be '+10'and '+12'
+ next two terms---> 20+10=30,30+12=42
+
+SO,Sequence: 2, 6, 12, 20 ,30 ,42
