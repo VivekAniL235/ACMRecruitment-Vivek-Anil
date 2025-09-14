@@ -1,0 +1,5 @@
+lets take the side we initially is as s1 and the other side of the river as s2
+1)first farmer takes only the  goat from s1 and leaves in s2
+2)then goes back to s1 and take wolf to s2 and takes goat back to s1 on the way back 
+3)the farmer then leaves the goat at s1 and takes the cabbage to s2
+4) And finally takes takes the goat to s2,by going back to s1 and coming to s2 for the final time
