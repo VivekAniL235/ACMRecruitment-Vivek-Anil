@@ -1,0 +1,31 @@
+Q)- - 3 - 
+  - 3 - 1 
+  3 - - - 
+  - 1 - -
+
+1)Row 4 had only one place for a 3 - put 3 in the last column.
+2)Row 3 had only one place for a 1 - put 1 in column 3.
+3)Row 1 had only one place for a 1 - put 1 in column 1.
+4)The remaining empty spots came in neat little pairs, each needing just {2,4}.
+
+R--->Row,C------>Column
+5)Now Put R1,C2 = 4.
+Column 2 now has {4,3,1}, so it's missing 2 → R3C2 = 2.
+
+6)Box (rows 3–4, cols 1–2) now has {3,2,1}, so it must have 4 at R4C1 = 4.
+
+7)Column 1 now has {1,3,4}, so the missing digit is 2 → R2C1 = 2.
+
+8)Row 2 now contains {2,3,?,1} → the missing digit is 4 → R2C3 = 4.
+
+9)Column 3 now has {3,4,1}, so the missing digit is 2 → R4C3 = 2.
+
+10)Row 3 now has {3,2,1,?} → the only remaining digit is 4 → R3C4 = 4.
+
+11)Finally, Row 1 now has {1,4,3,?} → the last slot is 2 → R1C4 = 2.
+
+
+1 4 3 2
+2 3 4 1
+3 2 1 4
+4 1 2 3
