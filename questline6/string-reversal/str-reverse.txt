@@ -1,0 +1,3 @@
+1)The iterative approach uses a loop to go through the string from end to start, and builds a new string by adding each character in reverse order.
+
+2)The recursive approach breaks the problem into smaller subproblems, reversing all but the first character, and then appends the first character at the end.
