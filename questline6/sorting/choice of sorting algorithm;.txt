@@ -1,0 +1,2 @@
+choice of sorting algorithm;
+Insertion sort is chosen for its simplicity and efficiency in small datasets. And it works efficiently for nearly sorted or small input arrays like the one used in this task:
